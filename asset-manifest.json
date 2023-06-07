@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-ecom/static/css/main.995d1a3c.css",
+    "main.js": "/react-ecom/static/js/main.d3efe69c.js",
+    "static/js/787.750b04f3.chunk.js": "/react-ecom/static/js/787.750b04f3.chunk.js",
+    "static/media/google.png": "/react-ecom/static/media/google.c7304bd3e596455caaf5.png",
+    "static/media/apple.png": "/react-ecom/static/media/apple.268deee6f3c77c875ccb.png",
+    "static/media/tv.webp": "/react-ecom/static/media/tv.ce558bc503588c0fbdb2.webp",
+    "static/media/phone.webp": "/react-ecom/static/media/phone.53b5b9ad9caf44c0fc06.webp",
+    "static/media/contactus.jpg": "/react-ecom/static/media/contactus.50d0227a570324e17f06.jpg",
+    "static/media/aboutus.jpg": "/react-ecom/static/media/aboutus.cf381bf3686d7b405cf8.jpg",
+    "static/media/s.webp": "/react-ecom/static/media/s.fd6a8657ea6227afdf8c.webp",
+    "index.html": "/react-ecom/index.html",
+    "main.995d1a3c.css.map": "/react-ecom/static/css/main.995d1a3c.css.map",
+    "main.d3efe69c.js.map": "/react-ecom/static/js/main.d3efe69c.js.map",
+    "787.750b04f3.chunk.js.map": "/react-ecom/static/js/787.750b04f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.995d1a3c.css",
+    "static/js/main.d3efe69c.js"
+  ]
+}
